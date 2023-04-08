@@ -1,0 +1,34 @@
+{"witnesses" : 
+    [ 
+    {   "id" : "fr1766", 
+        "tokens" : 
+        [
+        {"t" : "§", "n" : "§"}, 
+        {"t" : "XXXVI", "n" : "XXXVI"}, 
+        {"t" : ".", "n" : "."}, 
+        {"t" : "De ", "n" : "De"}, 
+        {"t" : "quelques ", "n" : "quelques "}, 
+        {"t" : "crimes ", "n" : "crimes "}, 
+        {"t" : "difficiles ", "n" : "difficiles "}, 
+        {"t" : "à ", "n" : "à "}, 
+        {"t" : "constater", "n" : "constater "}, 
+        {"t" : ".", "n" : "."}
+        ]
+    },
+    {   "id" : "fr1782", 
+        "tokens" :
+        [
+            {"t" : "§", "n" : "§"},
+            {"t" : ". ", "n" : ". "},
+            {"t" : "XXXI", "n" : "XXXI"},
+            {"t" : ".", "n" : "."},
+            {"t" : "Des ", "n" : "Des "},
+            {"t" : "délits ", "n" : "délits "},
+            {"t" : "difficiles ", "n" : "difficiles "},
+            {"t" : "à ", "n" : "à "},
+            {"t" : "prouver", "n" : "prouver "},
+            {"t" : ".", "n" : "."}
+        ]
+    }
+    ]
+}

@@ -1,0 +1,29 @@
+digraph G {
+  v0 [label = ""];
+  v1 [label = "§"];
+  v2 [label = "XXXVI"];
+  v3 [label = ".XXXI"];
+  v4 [label = "."];
+  v5 [label = "De quelques crimes "];
+  v6 [label = "Des délits "];
+  v7 [label = "difficiles à "];
+  v8 [label = "constater"];
+  v9 [label = "prouver"];
+  v10 [label = "."];
+  v11 [label = ""];
+  v0 -> v1 [label = "fr1766, fr1782"];
+  v1 -> v2 [label = "fr1766"];
+  v1 -> v3 [label = "fr1782"];
+  v2 -> v4 [label = "fr1766"];
+  v3 -> v4 [label = "fr1782"];
+  v4 -> v5 [label = "fr1766"];
+  v4 -> v6 [label = "fr1782"];
+  v5 -> v7 [label = "fr1766"];
+  v6 -> v7 [label = "fr1782"];
+  v7 -> v8 [label = "fr1766"];
+  v7 -> v9 [label = "fr1782"];
+  v8 -> v10 [label = "fr1766"];
+  v9 -> v10 [label = "fr1782"];
+  v10 -> v11 [label = "fr1766, fr1782"];
+  v0 -> v11 [color =  "white"];
+}

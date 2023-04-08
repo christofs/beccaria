@@ -1,0 +1,34 @@
+{"witnesses" : 
+    [ 
+    {   "id" : "fr1766", 
+        "tokens" : 
+        [
+        {"t" : "§"}, 
+        {"t" : "XXXVI"}, 
+        {"t" : "."}, 
+        {"t" : "De "}, 
+        {"t" : "quelques "}, 
+        {"t" : "crimes "}, 
+        {"t" : "difficiles "}, 
+        {"t" : "à "}, 
+        {"t" : "constater"}, 
+        {"t" : "."}
+        ]
+    },
+    {   "id" : "fr1782", 
+        "tokens" :
+        [
+            {"t" : "§"},
+            {"t" : "."},
+            {"t" : "XXXI"},
+            {"t" : "."},
+            {"t" : "Des "},
+            {"t" : "délits "},
+            {"t" : "difficiles "},
+            {"t" : "à "},
+            {"t" : "prouver"},
+            {"t" : "."}
+        ]
+    }
+    ]
+}

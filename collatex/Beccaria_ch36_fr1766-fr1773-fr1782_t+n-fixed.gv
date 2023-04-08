@@ -1,0 +1,1729 @@
+digraph G {
+  v0 [label = ""];
+  v1 [label = "§ "];
+  v2 [label = "XXXVI . De 
+ quelques crimes difficiles à constater "]; 
+
+  v3 [label = ". XXXI "];
+  v4 [label = ". "];
+  v5 [label = "Des délits difficiles 
+ à prouver . D ' APRÉS les principes 
+ que nous venons de poser "]; 
+
+  v6 [label = ", "];
+  v7 [label = "Il "];
+  v8 [label = "paroîtra étrange à 
+ ceux qui réfléchissent , que la raison n 
+ ' ait presque jamais présidé à la législation 
+ des "];
+  v9 [label = "y a "];
+  v10 [label = "états "];
+  v11 [label = "Etats "];
+  v12 [label = ". Les crimes 
+ les plus atroces , les plus obscurs , 
+ les plus chimériques , & par conséquent les 
+ plus improbables , sont précisément ceux qu ' 
+ on a regardés comme constatés sur de simples 
+ conjectures , sur les preuves les moins solides 
+ & les plus équivoques . On croiroit que 
+ les loix & le magistrat n ' ont 
+ intérêt qu ' à prouver le délit , 
+ & non à chercher la vérité ; il 
+ semble que les législateurs n ' aient pas 
+ vu que le danger de condamner un innocent "];
+  v13 [label = ", "];
+  v14 [label = "croît en raison 
+ du peu de vraisemblance de son crime & 
+ de la probabilité de son innocence . On 
+ ne trouve point dans la plupart des hommes 
+ cette force & cette élévation "]; 
+
+  v15 [label = ", "];
+  v16 [label = "aussi nécessaires pour 
+ les grands crimes que pour les grandes vertus 
+ , cette énergie qui exalte à la fois 
+ les uns & les autres "]; 
+
+  v17 [label = ", "];
+  v18 [label = "au plus haut 
+ degré , & les produit presque toujours ensemble 
+ chez les nations qui se soutiennent moins par 
+ leur propre poids & la bonté constante de 
+ leurs loix , que par l ' activité 
+ du gouvernement & le concours des passions au 
+ bien public . Chez celles-là , les passions 
+ douces & affoiblies paroissent "];
+  v19 [label = "plus "];
+  v20 [label = "p1us "];
+  v21 [label = "propres à maintenir 
+ l ' administration établie "]; 
+
+  v22 [label = ", "];
+  v23 [label = "qu ' à 
+ l ' améliorer . De ces observations "]; 
+
+  v24 [label = ", "];
+  v25 [label = "il résulte une 
+ conséquence importante , c ' est que les 
+ grands crimes dans une nation "]; 
+
+  v26 [label = ", "];
+  v27 [label = "ne "];
+  v28 [label = "font "];
+  v29 [label = "sont "];
+  v30 [label = "pas toujours la 
+ preuve de son dépérissement . Il est "]; 
+
+  v31 [label = "quelques crimes "];
+  v32 [label = "trop "];
+  v33 [label = "fréquens dans la 
+ Société , et "]; 
+
+  v34 [label = "dont "];
+  v35 [label = "en même tems 
+ "];
+  v36 [label = "difficiles à prouver 
+ . Tels sont l "]; 
+
+  v37 [label = "la preuve est 
+ difficile . Alors cette difficulté doit tenir lieu 
+ de la probabilité de l ' innocence ; 
+ & comme le danger qui résulte de l 
+ ' impunité est d ' autant moindre "]; 
+
+  v38 [label = ", "];
+  v39 [label = "que l ' 
+ espérance même de l ' impunité contribue peu 
+ à multiplier cette espece de délit , dont 
+ la source est tout-à-fait différente , on peut 
+ diminuer également la durée de l ' instruction 
+ & celle de la prescription : mais ce 
+ ne sont "];
+  v40 [label = "pas-là "];
+  v41 [label = "pas là "];
+  v42 [label = "les principes récens 
+ ; & ne "]; 
+
+  v43 [label = "voit-on "];
+  v44 [label = "voit - on 
+ "];
+  v45 [label = "pas dans les 
+ accusations d "]; 
+
+  v46 [label = "' adultère , 
+ "];
+  v47 [label = "par exemple , 
+ & de pédérastie ( crimes toujours difficiles à 
+ prouver ) "]; 
+
+  v48 [label = "la pédérastie , 
+ l ' infanticide . "]; 
+
+  v49 [label = "ne "];
+  v50 [label = ",ne "];
+  v51 [label = "voit-on pas , 
+ dis-je , admettre tyranniquement les présomptions , les 
+ conjectures , les "]; 
+
+  v52 [label = "sémi-preuves ? "];
+  v53 [label = "semi-preuves , "];
+  v54 [label = "comme si l 
+ ' accusé pouvoit être partie innocent , partie 
+ coupable , & mériter à la fois d 
+ ' être absous & "]; 
+
+  v55 [label = "puni . "];
+  v56 [label = "punis "];
+  v57 [label = "C ' est 
+ dans ce genre de délits sur-tout , que 
+ d ' après les barbares & injustes compilations 
+ qu ' on a osé donner pour regle 
+ aux magistrats , on voit les tortures exercer 
+ leur cruel empire sur "];
+  v58 [label = "L ' "];
+  v59 [label = "accusé , sur 
+ les témoins , sur la famille "]; 
+
+  v60 [label = "adultère est un 
+ crime qui , considéré politiquement , doit son 
+ existence à deux causes , les mauvaises Loix 
+ , et cette attraction si puissante qui porte 
+ "];
+  v61 [label = "entiere "];
+  v62 [label = "entière "];
+  v63 [label = "un sexe vers 
+ l ' autre . "]; 
+
+  v64 [label = "de l ' 
+ infortuné qu ' on soupçonne . Considéré politiquement 
+ , l ' adultere a "]; 
+
+  v65 [label = "[Cette attraction "];
+  v66 [label = "la "];
+  v67 [label = "sa "];
+  v68 [label = "source dans les 
+ loix variables des hommes "]; 
+
+  v69 [label = ", "];
+  v70 [label = "& le penchant 
+ naturel d ' "]; 
+
+  v71 [label = "un sexe vers 
+ l ' autre . "]; 
+
+  v72 [label = "Cette attraction constante 
+ "];
+  v73 [label = "est semblable "];
+  v74 [label = "en beaucoup de 
+ choses "]; 
+
+  v75 [label = "à la pesanteur 
+ "];
+  v76 [label = "universelle . Comme 
+ celle-ci , "]; 
+
+  v77 [label = "motrice de l 
+ ' univers , en ce qu ' "]; 
+
+  v78 [label = "elle diminue "];
+  v79 [label = "comme elle "];
+  v80 [label = "par la distance 
+ "];
+  v81 [label = ": si l 
+ ' une modifie tous les mouvemens du corps 
+ "];
+  v82 [label = ", en ce 
+ que , tant que dure son activité , 
+ elle a sur toutes les affections de l 
+ ' ame "];
+  v83 [label = ", l ' 
+ "];
+  v84 [label = "autre affecte "];
+  v85 [label = "action que la 
+ pesanteur exerce sur "]; 
+
+  v86 [label = "tous les mouvemens 
+ "];
+  v87 [label = "de l ' 
+ ame tant que dure son activité . Elles 
+ différent en ce que la gravité "]; 
+
+  v88 [label = "des corps . 
+ Elle en "]; 
+
+  v89 [label = "différe , "];
+  v90 [label = "differe "];
+  v91 [label = "en ce que 
+ celle-ci "]; 
+
+  v92 [label = "se met en 
+ équilibre avec les obstacles "]; 
+
+  v93 [label = "qu ' elle 
+ rencontre "]; 
+
+  v94 [label = ", tandis que 
+ "];
+  v95 [label = "la passion de 
+ l ' amour se fortifie par les obstacles 
+ mêmes .] Si j ' avois à parler 
+ "];
+  v96 [label = "celle-là prend ordinairement 
+ une nouvelle force & augmente avec les difficultés 
+ . Si je parlois "]; 
+
+  v97 [label = "à des Nations 
+ "];
+  v98 [label = "encore privées des 
+ "];
+  v99 [label = "chez lesquelles les 
+ "];
+  v100 [label = "lumieres "];
+  v101 [label = "lumières "];
+  v102 [label = "de la Religion 
+ "];
+  v103 [label = "n ' eussent 
+ point "]; 
+
+  v104 [label = "pénétré "];
+  v105 [label = "pénetré "];
+  v106 [label = ", je "];
+  v107 [label = "leur montrerois encore 
+ des différences considérables entre ce "]; 
+
+  v108 [label = "dirois qu ' 
+ il y a une différence considérable entre cette 
+ espèce de "]; 
+
+  v109 [label = "délit et tous 
+ les autres . L ' adultère "]; 
+
+  v110 [label = "à "];
+  v111 [label = "a "];
+  v112 [label = "naît de "];
+  v113 [label = "sa "];
+  v114 [label = "source "];
+  v115 [label = "fource "];
+  v116 [label = "dans "];
+  v117 [label = "l ' abus 
+ d ' un besoin constant "]; 
+
+  v118 [label = "& "];
+  v119 [label = ", "];
+  v120 [label = "universel dans "];
+  v121 [label = "toute "];
+  v122 [label = "la nature humaine 
+ , besoin antérieur à la société "]; 
+
+  v123 [label = "qui lui doit 
+ son établissement . "]; 
+
+  v124 [label = "dont il est 
+ lui-même le fondateur ; tandis que "]; 
+
+  v125 [label = "les autres "];
+  v126 [label = "délits , destructeurs 
+ de la société , prennent leur origine dans 
+ les "];
+  v127 [label = "crimes , au 
+ contraire , sont bien plutôt l ' effet 
+ des "];
+  v128 [label = "passions du moment 
+ "];
+  v129 [label = "passions du moment 
+ "];
+  v130 [label = ". Ceux qui 
+ ont étudié "]; 
+
+  v131 [label = ", "];
+  v132 [label = "que des besoins 
+ de la nature , & tendent tous , 
+ plus ou moins , à la destruction de 
+ la société . Pour qui "]; 
+
+  v133 [label = "connoît "];
+  v134 [label = "connoit "];
+  v135 [label = "l ' histoire 
+ et "]; 
+
+  v136 [label = "l ' humanité 
+ , la tendance d ' un sexe vers 
+ l ' autre "]; 
+
+  v137 [label = "la nature de 
+ l ' homme conjecturent que dans un "]; 
+
+  v138 [label = ", "];
+  v139 [label = "semble "];
+  v140 [label = "( "];
+  v141 [label = ", "];
+  v142 [label = "dans le "];
+  v143 [label = "même climat "];
+  v144 [label = ", "];
+  v145 [label = "ce besoin est 
+ "];
+  v146 [label = ") "];
+  v147 [label = "une quantité "];
+  v148 [label = "toujours égale "];
+  v149 [label = "et constante . 
+ Si cela étoit , il faudroit regarder comme 
+ inutiles , et même comme funestes , toutes 
+ les loix et les coutumes dont le but 
+ seroit de "];
+  v150 [label = "à "];
+  v151 [label = "une quantité "];
+  v152 [label = "constante . Ce 
+ principe admis , toute loi , toute coutume 
+ qui cherchera à "]; 
+
+  v153 [label = "diminuer la somme 
+ totale "]; 
+
+  v154 [label = "des effets "];
+  v155 [label = "de cette "];
+  v156 [label = "quantité , sera 
+ "];
+  v157 [label = "passion : "];
+  v158 [label = "non - seulement 
+ "];
+  v159 [label = "non-seulement "];
+  v160 [label = "inutile , mais 
+ funeste , "]; 
+
+  v161 [label = "parce que "];
+  v162 [label = "son effet inévitable 
+ sera de charger une partie des citoyens de 
+ leurs "];
+  v163 [label = "ces loix chargeroient 
+ une portion de la société de ses "]; 
+
+  v164 [label = "propres besoins & 
+ de ceux "]; 
+
+  v165 [label = "propres besoins et 
+ de ceux "]; 
+
+  v166 [label = "des autres . 
+ Le parti "]; 
+
+  v167 [label = "d ' une 
+ autre classe de Citoyens : celles-là au contraire 
+ seroient sages et utiles , qui "]; 
+
+  v168 [label = "le "];
+  v169 [label = "la "];
+  v170 [label = "plus sage est 
+ donc d ' imiter en quelque sorte les 
+ moyens dont on se sert "]; 
+
+  v171 [label = ", "];
+  v172 [label = "; "];
+  v173 [label = "en "];
+  v174 [label = "suivant "];
+  v175 [label = ", pour ainsi 
+ dire , "]; 
+
+  v176 [label = "la pente douce 
+ "];
+  v177 [label = "du "];
+  v178 [label = "d ' un 
+ "];
+  v179 [label = "fleuve "];
+  v180 [label = ", en diviseroient 
+ le cours en un nombre de "]; 
+
+  v181 [label = "qu ' on 
+ divise en tant de petits "]; 
+
+  v182 [label = "rameaux "];
+  v183 [label = "suffisant pour empêcher 
+ par-tout "]; 
+
+  v184 [label = "égaux , que 
+ "];
+  v185 [label = "la sécheresse et 
+ l ' inondation "]; 
+
+  v186 [label = "se trouvent également 
+ "];
+  v187 [label = "prévenues "];
+  v188 [label = "prévenués "];
+  v189 [label = "dans tous les 
+ points "]; 
+
+  v190 [label = ". "];
+  v191 [label = "[On voit ici 
+ la préuve de ce que j ' ai 
+ avancé ailleurs . C ' est que l 
+ ' auteur de cet ouvrage s ' est 
+ probablement par crainte enveloppé souvent de calculs & 
+ d ' une mystérieuse métaphysique . Si j 
+ ' ai traité le sujet délicat de l 
+ ' adultere avec plus de hardiesse , c 
+ ' est que j ' ai mieux pensé 
+ de mon siecle & de ma nation . 
+ Note de l ' éditeur .] "];
+  v192 [label = "La fidélité conjugale 
+ est toujours plus "]; 
+
+  v193 [label = "grande à "];
+  v194 [label = "assurée "];
+  v195 [label = ", "];
+  v196 [label = "en "];
+  v197 [label = "proportion "];
+  v198 [label = "du nombre & 
+ de la liberté des "]; 
+
+  v199 [label = "que les "];
+  v200 [label = "mariages "];
+  v201 [label = ": si les 
+ préjugés héréditaires les assortissent , si "]; 
+
+  v202 [label = "sont plus nombreux 
+ et plus faciles ; lorsque le préjugé les 
+ assortit , et que "]; 
+
+  v203 [label = "la puissance paternelle 
+ les forme "]; 
+
+  v204 [label = "et "];
+  v205 [label = "ou "];
+  v206 [label = "les empêche à 
+ son gré , "]; 
+
+  v207 [label = "leurs liens mal 
+ tissus "]; 
+
+  v208 [label = ", seront "];
+  v209 [label = "feront "];
+  v210 [label = "bientôt rompus par 
+ "];
+  v211 [label = "la galanterie "];
+  v212 [label = "en rompt secrettement 
+ "];
+  v213 [label = ", dont la 
+ force "]; 
+
+  v214 [label = "secrete "];
+  v215 [label = "secrète "];
+  v216 [label = "trouvera de foibles 
+ obstacles dans "]; 
+
+  v217 [label = "les "];
+  v218 [label = "préceptes "];
+  v219 [label = "liens , malgré 
+ les déclamations "]; 
+
+  v220 [label = "des Moralistes vulgaires 
+ , "]; 
+
+  v221 [label = "dont l ' 
+ occupation est de crier "]; 
+
+  v222 [label = "sans "];
+  v223 [label = "cesse "];
+  v224 [label = "celle "];
+  v225 [label = "occupés à déclamer 
+ "];
+  v226 [label = "contre les effets 
+ "];
+  v227 [label = ", "];
+  v228 [label = "en pardonnant aux 
+ causes . Mais "]; 
+
+  v229 [label = "toutes "];
+  v230 [label = "ces réflexions "];
+  v231 [label = "sont "];
+  v232 [label = "deviennent "];
+  v233 [label = "inutiles à ceux 
+ "];
+  v234 [label = "qui , vivant 
+ dans la véritable Religion , connoissent des "]; 
+
+  v235 [label = "chez qui les 
+ "];
+  v236 [label = "motifs "];
+  v237 [label = "plus "];
+  v238 [label = "sublimes "];
+  v239 [label = "de la vraie 
+ religion "]; 
+
+  v240 [label = ", dont l 
+ ' action corrige "]; 
+
+  v241 [label = ", "];
+  v242 [label = "corrigent par leur 
+ action efficace "]; 
+
+  v243 [label = ", "];
+  v244 [label = "celle de la 
+ nature . L ' adultère est un délit 
+ si "];
+  v245 [label = "instantané "];
+  v246 [label = "fugitif "];
+  v247 [label = ", si mystérieux 
+ , "]; 
+
+  v248 [label = "il est tellement 
+ "];
+  v249 [label = "si "];
+  v250 [label = "caché "];
+  v251 [label = "par "];
+  v252 [label = "sous "];
+  v253 [label = "le voile "];
+  v254 [label = ", "];
+  v255 [label = "dont les loix 
+ "];
+  v256 [label = "mêmes "];
+  v257 [label = "même "];
+  v258 [label = "forcent de le 
+ couvrir , ( "]; 
+
+  v259 [label = "l ' enveloppent 
+ ; ce "]; 
+
+  v260 [label = "voile nécessaire , 
+ mais "]; 
+
+  v261 [label = "transparent , qui 
+ "];
+  v262 [label = "dont le foible 
+ tissu "]; 
+
+  v263 [label = "augmente les charmes 
+ de l ' objet "]; 
+
+  v264 [label = "augmente les charmes 
+ de l ' objet "]; 
+
+  v265 [label = ", loin de 
+ les diminuer ) "]; 
+
+  v266 [label = "qu ' il 
+ couvre , est si transparent ; les occasions 
+ sont si faciles & les conséquences si équivoques 
+ , "];
+  v267 [label = "qu ' il 
+ est bien plus "]; 
+
+  v268 [label = "au pouvoir du 
+ "];
+  v269 [label = "aisé au "];
+  v270 [label = "législateur de le 
+ prévenir "]; 
+
+  v271 [label = ", "];
+  v272 [label = "que de le 
+ "];
+  v273 [label = "détruire , lorsqu 
+ ' il est étali "]; 
+
+  v274 [label = "réprimer "];
+  v275 [label = ". Règle générale 
+ "];
+  v276 [label = ". "];
+  v277 [label = ": "];
+  v278 [label = "Dans tout délit 
+ "];
+  v279 [label = "qui , "];
+  v280 [label = ", qui "];
+  v281 [label = "par sa nature 
+ "];
+  v282 [label = ", doit presque 
+ toujours "]; 
+
+  v283 [label = "doit nécessairement et 
+ souvent "]; 
+
+  v284 [label = "demeurer impuni , 
+ la peine est un aiguillon "]; 
+
+  v285 [label = "de plus . 
+ Lorsque "]; 
+
+  v286 [label = "au crime . 
+ Telle est la nature de l ' esprit 
+ humain que "]; 
+
+  v287 [label = "les difficultés "];
+  v288 [label = "qui ne sont 
+ pas "]; 
+
+  v289 [label = "ne sont point 
+ "];
+  v290 [label = "insurmontables "];
+  v291 [label = ", lorsqu ' 
+ elles ne se présentent pas à l ' 
+ homme sous un aspect décourageant "]; 
+
+  v292 [label = ", ni trop 
+ grandes "]; 
+
+  v293 [label = ", "];
+  v294 [label = "relativement au degré 
+ d ' activité de "]; 
+
+  v295 [label = "son esprit "];
+  v296 [label = "chacun , embellissent 
+ l ' objet , et excitent plus "]; 
+
+  v297 [label = "; "];
+  v298 [label = ", "];
+  v299 [label = "telle est la 
+ nature de son imagination , qu ' elle 
+ en est plus "]; 
+
+  v300 [label = "vivement "];
+  v301 [label = "excitée , qu 
+ ' elle s ' attache avec plus d 
+ ' ardeur sur l ' objet de ses 
+ desirs "];
+  v302 [label = "l ' imagination 
+ à le poursuivre . Elles sont "]; 
+
+  v303 [label = ". "];
+  v304 [label = ", "];
+  v305 [label = "pour ainsi dire 
+ , "]; 
+
+  v306 [label = "Les obstacles deviennent 
+ comme "]; 
+
+  v307 [label = "autant de "];
+  v308 [label = "barrieres "];
+  v309 [label = "barrières "];
+  v310 [label = "qui l ' 
+ empêchent de s ' "]; 
+
+  v311 [label = "en "];
+  v312 [label = "écarter "];
+  v313 [label = ", et qui 
+ "];
+  v314 [label = "de cet objet 
+ & "]; 
+
+  v315 [label = "la forcent "];
+  v316 [label = "d ' en 
+ saisir "]; 
+
+  v317 [label = "à en parcourir 
+ "];
+  v318 [label = "tous les rapports 
+ "];
+  v319 [label = "tous les rapports 
+ "];
+  v320 [label = ", d ' 
+ où il résulte qu ' "]; 
+
+  v321 [label = ". Or , 
+ dans cette agitation l ' ame s ' 
+ aisit bien plus fortement les côtés agréables de 
+ l ' objet vers lesquels elle est plus 
+ naturellement portée , que les côtés désagréables dont 
+ "];
+  v322 [label = "elle s ' 
+ "];
+  v323 [label = "occupe nécessairement de 
+ ceux d ' agrément & de plaisir , 
+ pour éloigner & exclure toutes les relations de 
+ crainte & de danger : telle est la 
+ marche constante de l ' esprit humain "]; 
+
+  v324 [label = "éloigne autant qu 
+ ' elle peut "]; 
+
+  v325 [label = ". La pédérastie 
+ "];
+  v326 [label = ", que les 
+ loix punissent "]; 
+
+  v327 [label = "si sévérement "];
+  v328 [label = "[(1) Ce n 
+ ' est pas en France au moins ; 
+ "];
+  v329 [label = "pu nie par 
+ "];
+  v330 [label = "les loix "];
+  v331 [label = ", et pour 
+ laquelle on employe si facilement ces tourmens "]; 
+
+  v332 [label = "prononcent des peines 
+ séveres , mais on ne les exécute pas 
+ . En Italie "]; 
+
+  v333 [label = ", "];
+  v334 [label = "le riche s 
+ ' en exempte aisement , l ' imprudent 
+ peu aisé en est seul la victime . 
+ Note de l ' éditeur .] "]; 
+
+  v335 [label = "& dont le 
+ seul soupçon a livré tant de malheureux à 
+ ces cruelles tortures "]; 
+
+  v336 [label = "qui "];
+  v337 [label = "ne "];
+  v338 [label = "triomphent "];
+  v339 [label = "que trop "];
+  v340 [label = "de l ' 
+ innocence "]; 
+
+  v341 [label = "même , a 
+ "];
+  v342 [label = "; la "];
+  v343 [label = "péderastie "];
+  v344 [label = "pédérastie "];
+  v345 [label = ", dis-je , 
+ prend "]; 
+
+  v346 [label = "moins sa source 
+ dans les besoins de l ' homme isolé 
+ et libre , que dans les passions de 
+ l ' homme "]; 
+
+  v347 [label = "social & "];
+  v348 [label = "esclave "];
+  v349 [label = "et réuni en 
+ société . "]; 
+
+  v350 [label = "; si quelquefois 
+ elle est l ' effet de la "]; 
+
+  v351 [label = "Elle est bien 
+ "];
+  v352 [label = "satiété "];
+  v353 [label = "satieté "];
+  v354 [label = "moins l ' 
+ effet de la "]; 
+
+  v355 [label = "des plaisirs , 
+ "];
+  v356 [label = "satiété "];
+  v357 [label = "elle est bien 
+ "];
+  v358 [label = "des plaisirs , 
+ "];
+  v359 [label = "plus souvent "];
+  v360 [label = "que "];
+  v361 [label = "celui "];
+  v362 [label = "d ' une 
+ éducation fausse , qui "]; 
+
+  v363 [label = "des défauts de 
+ cette éducation qui "]; 
+
+  v364 [label = ", "];
+  v365 [label = "pour rendre les 
+ hommes utiles "]; 
+
+  v366 [label = "aux autres "];
+  v367 [label = "à leurs semblables 
+ "];
+  v368 [label = ", commence "];
+  v369 [label = ", "];
+  v370 [label = "par les rendre 
+ inutiles à "]; 
+
+  v371 [label = "eux-mêmes "];
+  v372 [label = "eux—mêmes "];
+  v373 [label = ", "];
+  v374 [label = "; c ' 
+ est ensuite de cette "]; 
+
+  v375 [label = "education "];
+  v376 [label = "éducation "];
+  v377 [label = "qu ' elle 
+ "];
+  v378 [label = "regne "];
+  v379 [label = "règne "];
+  v380 [label = "dans ces maisons 
+ où "]; 
+
+  v381 [label = "l ' on 
+ rassemble "]; 
+
+  v382 [label = "une jeunesse "];
+  v383 [label = "nombreuse , "];
+  v384 [label = "ardente "];
+  v385 [label = "& séparée par 
+ des obstacles insurmontables du sexe que la nature 
+ commence à lui faire desirer , se prépare 
+ une vieillesse anticipée , en "]; 
+
+  v386 [label = ", et où 
+ le commerce avec le sexe étant interdit , 
+ toute "];
+  v387 [label = "consumant inutilement pour 
+ l ' humanité "]; 
+
+  v388 [label = ", "];
+  v389 [label = "la vigueur "];
+  v390 [label = "que l ' 
+ âge "]; 
+
+  v391 [label = "de la nature 
+ qui se "]; 
+
+  v392 [label = "développe "];
+  v393 [label = "développe "];
+  v394 [label = "chez elle "];
+  v395 [label = "se "];
+  v396 [label = "consumant inutilement pour 
+ l ' humanité , "]; 
+
+  v397 [label = "précipite l ' 
+ arrivée de la vieillesse "]; 
+
+  v398 [label = ". L ' 
+ infanticide est "]; 
+
+  v399 [label = "encore l ' 
+ "];
+  v400 [label = "pareillement l ' 
+ "];
+  v401 [label = "etfet presque "];
+  v402 [label = "effet "];
+  v403 [label = "presqu ' "];
+  v404 [label = "de la "];
+  v405 [label = "inévitable de l 
+ ' affreuse "]; 
+
+  v406 [label = "situation "];
+  v407 [label = "terrible "];
+  v408 [label = "où se trouve 
+ une "]; 
+
+  v409 [label = "personne "];
+  v410 [label = "infortunée "];
+  v411 [label = "qui "];
+  v412 [label = "s ' est 
+ laissé séduire ou insulter . Forcée de choisir 
+ entre "];
+  v413 [label = "a "];
+  v414 [label = "cédé "];
+  v415 [label = "céde "];
+  v416 [label = "à sa propre 
+ foiblesse ou à la violence "]; 
+
+  v417 [label = ": "];
+  v418 [label = "; "];
+  v419 [label = "d ' un 
+ côté "]; 
+
+  v420 [label = "l ' infamie 
+ "];
+  v421 [label = "pour elle-même , 
+ et la mort d ' un Etre "]; 
+
+  v422 [label = ", de l 
+ ' autre la destruction d ' un être 
+ "];
+  v423 [label = "incapable de sentir 
+ "];
+  v424 [label = "la perte de 
+ la vie , comment ne préféreroit-elle pas ce 
+ dernier "];
+  v425 [label = ", voilà le 
+ choix que les loix lui laissent à faire 
+ "];
+  v426 [label = ". "];
+  v427 [label = ": "];
+  v428 [label = "Doutera-t-on qu ' 
+ elle ne "]; 
+
+  v429 [label = "préfere "];
+  v430 [label = "préfère "];
+  v431 [label = "le "];
+  v432 [label = "parti "];
+  v433 [label = "pour éviter sa 
+ "];
+  v434 [label = "qui la dérobe 
+ à la "]; 
+
+  v435 [label = "honte "];
+  v436 [label = "et celle de 
+ son malheureux enfant ? Le meilleur "]; 
+
+  v437 [label = "& à la 
+ "];
+  v438 [label = "misère "];
+  v439 [label = "misere "];
+  v440 [label = ", elle & 
+ le triste fruit de ses "]; 
+
+  v441 [label = "plaisirs? "];
+  v442 [label = "plaisirs ? "];
+  v443 [label = "Le "];
+  v444 [label = "moyen "];
+  v445 [label = "le plus efficace 
+ pour "]; 
+
+  v446 [label = "de "];
+  v447 [label = "prévenir "];
+  v448 [label = "cette espece de 
+ "];
+  v449 [label = "ce "];
+  v450 [label = "crime "];
+  v451 [label = ", ce "];
+  v452 [label = "seroit "];
+  v453 [label = "de protéger efficacement 
+ "];
+  v454 [label = "d ' assurer 
+ à "]; 
+
+  v455 [label = "la foiblesse "];
+  v456 [label = "contre cette espèce 
+ de "]; 
+
+  v457 [label = "toute la protection 
+ des loix "]; 
+
+  v458 [label = "tyrannie qui "];
+  v459 [label = ", "];
+  v460 [label = "exagère tous les 
+ "];
+  v461 [label = "contre la "];
+  v462 [label = "tyrannie qui "];
+  v463 [label = "ne s ' 
+ "];
+  v464 [label = "éleve guere "];
+  v465 [label = "élève guères "];
+  v466 [label = "que contre les 
+ "];
+  v467 [label = "vices "];
+  v468 [label = ", "];
+  v469 [label = "qu ' on 
+ ne peut pas couvrir du manteau de la 
+ vertu . Je ne prétends "]; 
+
+  v470 [label = "pas "];
+  v471 [label = "point au reste 
+ "];
+  v472 [label = "affoiblir la juste 
+ horreur "]; 
+
+  v473 [label = "qu ' on 
+ a pour ces "]; 
+
+  v474 [label = "que doivent "];
+  v475 [label = ", "];
+  v476 [label = "inspirer les "];
+  v477 [label = "crimes "];
+  v478 [label = ", mais indiquer 
+ leurs "]; 
+
+  v479 [label = "dont je viens 
+ de parler : mais en en indiquant les 
+ "];
+  v480 [label = "sources "];
+  v481 [label = ": et "];
+  v482 [label = ", "];
+  v483 [label = "je me crois 
+ en droit d ' "]; 
+
+  v484 [label = "en tirer "];
+  v485 [label = "avancer ce principe 
+ général , qu ' on ne peut appeller 
+ précisément "];
+  v486 [label = "cette "];
+  v487 [label = "certe "];
+  v488 [label = "conséquence générale , 
+ c ' est que la punition d ' 
+ un crime ne sauroit être "]; 
+
+  v489 [label = "juste "];
+  v490 [label = ", "];
+  v491 [label = "ou "];
+  v492 [label = ", ( "];
+  v493 [label = "nécessaire , "];
+  v494 [label = "nécéssaire ; "];
+  v495 [label = "ce qui est 
+ la même chose "]; 
+
+  v496 [label = ", ) necessaire 
+ , la punition d ' un crime "]; 
+
+  v497 [label = ", tant que 
+ la loi n ' a "]; 
+
+  v498 [label = "pas "];
+  v499 [label = "point "];
+  v500 [label = "employé pour le 
+ "];
+  v501 [label = "prévenir , "];
+  v502 [label = "prevenir "];
+  v503 [label = "les meilleurs moyens 
+ possibles dans les circonstances "]; 
+
+  v504 [label = "où "];
+  v505 [label = "données dans lesquelles 
+ "];
+  v506 [label = "se trouve "];
+  v507 [label = "la "];
+  v508 [label = "une "];
+  v509 [label = "nation . "];
+  v510 [label = ""];
+  v0 -> v1 [label = "fr1766, fr1773, fr1782"];
+  v1 -> v2 [label = "fr1766"];
+  v1 -> v3 [label = "fr1773, fr1782"];
+  v2 -> v4 [label = "fr1766"];
+  v3 -> v4 [label = "fr1773, fr1782"];
+  v4 -> v7 [label = "fr1766"];
+  v4 -> v5 [label = "fr1773, fr1782"];
+  v5 -> v7 [label = "fr1782"];
+  v5 -> v6 [label = "fr1773"];
+  v6 -> v7 [label = "fr1773"];
+  v7 -> v8 [label = "fr1773, fr1782"];
+  v7 -> v9 [label = "fr1766"];
+  v8 -> v10 [label = "fr1782"];
+  v8 -> v11 [label = "fr1773"];
+  v9 -> v31 [label = "fr1766"];
+  v10 -> v12 [label = "fr1782"];
+  v11 -> v12 [label = "fr1773"];
+  v12 -> v14 [label = "fr1782"];
+  v12 -> v13 [label = "fr1773"];
+  v13 -> v14 [label = "fr1773"];
+  v14 -> v15 [label = "fr1773"];
+  v14 -> v16 [label = "fr1782"];
+  v15 -> v16 [label = "fr1773"];
+  v16 -> v17 [label = "fr1773"];
+  v16 -> v18 [label = "fr1782"];
+  v17 -> v18 [label = "fr1773"];
+  v18 -> v19 [label = "fr1773"];
+  v18 -> v20 [label = "fr1782"];
+  v19 -> v21 [label = "fr1773"];
+  v20 -> v21 [label = "fr1782"];
+  v21 -> v23 [label = "fr1782"];
+  v21 -> v22 [label = "fr1773"];
+  v22 -> v23 [label = "fr1773"];
+  v23 -> v24 [label = "fr1773"];
+  v23 -> v25 [label = "fr1782"];
+  v24 -> v25 [label = "fr1773"];
+  v25 -> v27 [label = "fr1782"];
+  v25 -> v26 [label = "fr1773"];
+  v26 -> v27 [label = "fr1773"];
+  v27 -> v28 [label = "fr1782"];
+  v27 -> v29 [label = "fr1773"];
+  v28 -> v30 [label = "fr1782"];
+  v29 -> v30 [label = "fr1773"];
+  v30 -> v31 [label = "fr1773, fr1782"];
+  v31 -> v32 [label = "fr1766"];
+  v31 -> v33 [label = "fr1773, fr1782"];
+  v32 -> v33 [label = "fr1766"];
+  v33 -> v34 [label = "fr1773, fr1782"];
+  v33 -> v35 [label = "fr1766"];
+  v34 -> v35 [label = "fr1773, fr1782"];
+  v35 -> v36 [label = "fr1766"];
+  v35 -> v37 [label = "fr1773, fr1782"];
+  v36 -> v46 [label = "fr1766"];
+  v37 -> v39 [label = "fr1782"];
+  v37 -> v38 [label = "fr1773"];
+  v38 -> v39 [label = "fr1773"];
+  v39 -> v40 [label = "fr1773"];
+  v39 -> v41 [label = "fr1782"];
+  v40 -> v42 [label = "fr1773"];
+  v41 -> v42 [label = "fr1782"];
+  v42 -> v43 [label = "fr1773"];
+  v42 -> v44 [label = "fr1782"];
+  v43 -> v45 [label = "fr1773"];
+  v44 -> v45 [label = "fr1782"];
+  v45 -> v46 [label = "fr1773, fr1782"];
+  v46 -> v47 [label = "fr1773, fr1782"];
+  v46 -> v48 [label = "fr1766"];
+  v47 -> v49 [label = "fr1773"];
+  v47 -> v50 [label = "fr1782"];
+  v48 -> v58 [label = "fr1766"];
+  v49 -> v51 [label = "fr1773"];
+  v50 -> v51 [label = "fr1782"];
+  v51 -> v52 [label = "fr1782"];
+  v51 -> v53 [label = "fr1773"];
+  v52 -> v54 [label = "fr1782"];
+  v53 -> v54 [label = "fr1773"];
+  v54 -> v55 [label = "fr1773"];
+  v54 -> v56 [label = "fr1782"];
+  v55 -> v57 [label = "fr1773"];
+  v56 -> v57 [label = "fr1782"];
+  v57 -> v58 [label = "fr1773, fr1782"];
+  v58 -> v59 [label = "fr1773, fr1782"];
+  v58 -> v60 [label = "fr1766"];
+  v59 -> v61 [label = "fr1782"];
+  v59 -> v62 [label = "fr1773"];
+  v60 -> v63 [label = "fr1766"];
+  v61 -> v64 [label = "fr1782"];
+  v62 -> v64 [label = "fr1773"];
+  v63 -> v65 [label = "fr1766"];
+  v64 -> v66 [label = "fr1773"];
+  v64 -> v67 [label = "fr1782"];
+  v65 -> v73 [label = "fr1766"];
+  v66 -> v68 [label = "fr1773"];
+  v67 -> v68 [label = "fr1782"];
+  v68 -> v69 [label = "fr1773"];
+  v68 -> v70 [label = "fr1782"];
+  v69 -> v70 [label = "fr1773"];
+  v70 -> v71 [label = "fr1773, fr1782"];
+  v71 -> v72 [label = "fr1773, fr1782"];
+  v72 -> v73 [label = "fr1773, fr1782"];
+  v73 -> v74 [label = "fr1766"];
+  v73 -> v75 [label = "fr1773, fr1782"];
+  v74 -> v75 [label = "fr1766"];
+  v75 -> v76 [label = "fr1766"];
+  v75 -> v77 [label = "fr1773, fr1782"];
+  v76 -> v78 [label = "fr1766"];
+  v77 -> v78 [label = "fr1773, fr1782"];
+  v78 -> v80 [label = "fr1766"];
+  v78 -> v79 [label = "fr1773, fr1782"];
+  v79 -> v80 [label = "fr1773, fr1782"];
+  v80 -> v81 [label = "fr1766"];
+  v80 -> v82 [label = "fr1773, fr1782"];
+  v81 -> v83 [label = "fr1766"];
+  v82 -> v83 [label = "fr1773, fr1782"];
+  v83 -> v84 [label = "fr1766"];
+  v83 -> v85 [label = "fr1773, fr1782"];
+  v84 -> v86 [label = "fr1766"];
+  v85 -> v86 [label = "fr1773, fr1782"];
+  v86 -> v87 [label = "fr1766"];
+  v86 -> v88 [label = "fr1773, fr1782"];
+  v87 -> v92 [label = "fr1766"];
+  v88 -> v89 [label = "fr1773"];
+  v88 -> v90 [label = "fr1782"];
+  v89 -> v91 [label = "fr1773"];
+  v90 -> v91 [label = "fr1782"];
+  v91 -> v92 [label = "fr1773, fr1782"];
+  v92 -> v93 [label = "fr1773, fr1782"];
+  v92 -> v94 [label = "fr1766"];
+  v93 -> v94 [label = "fr1773, fr1782"];
+  v94 -> v95 [label = "fr1766"];
+  v94 -> v96 [label = "fr1773, fr1782"];
+  v95 -> v97 [label = "fr1766"];
+  v96 -> v97 [label = "fr1773, fr1782"];
+  v97 -> v98 [label = "fr1766"];
+  v97 -> v99 [label = "fr1773, fr1782"];
+  v98 -> v101 [label = "fr1766"];
+  v99 -> v100 [label = "fr1782"];
+  v99 -> v101 [label = "fr1773"];
+  v100 -> v102 [label = "fr1782"];
+  v101 -> v102 [label = "fr1766, fr1773"];
+  v102 -> v106 [label = "fr1766"];
+  v102 -> v103 [label = "fr1773, fr1782"];
+  v103 -> v104 [label = "fr1782"];
+  v103 -> v105 [label = "fr1773"];
+  v104 -> v106 [label = "fr1782"];
+  v105 -> v106 [label = "fr1773"];
+  v106 -> v107 [label = "fr1773, fr1782"];
+  v106 -> v108 [label = "fr1766"];
+  v107 -> v109 [label = "fr1773, fr1782"];
+  v108 -> v109 [label = "fr1766"];
+  v109 -> v110 [label = "fr1773"];
+  v109 -> v111 [label = "fr1782"];
+  v109 -> v112 [label = "fr1766"];
+  v110 -> v113 [label = "fr1773"];
+  v111 -> v113 [label = "fr1782"];
+  v112 -> v117 [label = "fr1766"];
+  v113 -> v114 [label = "fr1773"];
+  v113 -> v115 [label = "fr1782"];
+  v114 -> v116 [label = "fr1773"];
+  v115 -> v116 [label = "fr1782"];
+  v116 -> v117 [label = "fr1773, fr1782"];
+  v117 -> v118 [label = "fr1773, fr1782"];
+  v117 -> v119 [label = "fr1766"];
+  v118 -> v120 [label = "fr1773, fr1782"];
+  v119 -> v120 [label = "fr1766"];
+  v120 -> v121 [label = "fr1773, fr1782"];
+  v120 -> v122 [label = "fr1766"];
+  v121 -> v122 [label = "fr1773, fr1782"];
+  v122 -> v123 [label = "fr1773, fr1782"];
+  v122 -> v124 [label = "fr1766"];
+  v123 -> v125 [label = "fr1773, fr1782"];
+  v124 -> v125 [label = "fr1766"];
+  v125 -> v126 [label = "fr1766"];
+  v125 -> v127 [label = "fr1773, fr1782"];
+  v126 -> v128 [label = "fr1766"];
+  v127 -> v129 [label = "fr1773, fr1782"];
+  v128 -> v130 [label = "fr1766"];
+  v129 -> v131 [label = "fr1773"];
+  v129 -> v132 [label = "fr1782"];
+  v130 -> v135 [label = "fr1766"];
+  v131 -> v132 [label = "fr1773"];
+  v132 -> v133 [label = "fr1782"];
+  v132 -> v134 [label = "fr1773"];
+  v133 -> v135 [label = "fr1782"];
+  v134 -> v135 [label = "fr1773"];
+  v135 -> v136 [label = "fr1773, fr1782"];
+  v135 -> v137 [label = "fr1766"];
+  v136 -> v139 [label = "fr1782"];
+  v136 -> v138 [label = "fr1773"];
+  v137 -> v143 [label = "fr1766"];
+  v138 -> v139 [label = "fr1773"];
+  v139 -> v140 [label = "fr1773"];
+  v139 -> v141 [label = "fr1782"];
+  v140 -> v142 [label = "fr1773"];
+  v141 -> v142 [label = "fr1782"];
+  v142 -> v143 [label = "fr1773, fr1782"];
+  v143 -> v144 [label = "fr1782"];
+  v143 -> v145 [label = "fr1766"];
+  v143 -> v146 [label = "fr1773"];
+  v144 -> v148 [label = "fr1782"];
+  v145 -> v147 [label = "fr1766"];
+  v146 -> v148 [label = "fr1773"];
+  v147 -> v148 [label = "fr1766"];
+  v148 -> v149 [label = "fr1766"];
+  v148 -> v150 [label = "fr1773, fr1782"];
+  v149 -> v153 [label = "fr1766"];
+  v150 -> v151 [label = "fr1773, fr1782"];
+  v151 -> v152 [label = "fr1773, fr1782"];
+  v152 -> v153 [label = "fr1773, fr1782"];
+  v153 -> v154 [label = "fr1766"];
+  v153 -> v155 [label = "fr1773, fr1782"];
+  v154 -> v155 [label = "fr1766"];
+  v155 -> v156 [label = "fr1773, fr1782"];
+  v155 -> v157 [label = "fr1766"];
+  v156 -> v158 [label = "fr1782"];
+  v156 -> v159 [label = "fr1773"];
+  v157 -> v161 [label = "fr1766"];
+  v158 -> v160 [label = "fr1782"];
+  v159 -> v160 [label = "fr1773"];
+  v160 -> v161 [label = "fr1773, fr1782"];
+  v161 -> v162 [label = "fr1773, fr1782"];
+  v161 -> v163 [label = "fr1766"];
+  v162 -> v164 [label = "fr1773, fr1782"];
+  v163 -> v165 [label = "fr1766"];
+  v164 -> v166 [label = "fr1773, fr1782"];
+  v165 -> v167 [label = "fr1766"];
+  v166 -> v168 [label = "fr1773"];
+  v166 -> v169 [label = "fr1782"];
+  v167 -> v174 [label = "fr1766"];
+  v168 -> v170 [label = "fr1773"];
+  v169 -> v170 [label = "fr1782"];
+  v170 -> v171 [label = "fr1773"];
+  v170 -> v172 [label = "fr1782"];
+  v171 -> v173 [label = "fr1773"];
+  v172 -> v173 [label = "fr1782"];
+  v173 -> v174 [label = "fr1773, fr1782"];
+  v174 -> v176 [label = "fr1773, fr1782"];
+  v174 -> v175 [label = "fr1766"];
+  v175 -> v176 [label = "fr1766"];
+  v176 -> v177 [label = "fr1766"];
+  v176 -> v178 [label = "fr1773, fr1782"];
+  v177 -> v179 [label = "fr1766"];
+  v178 -> v179 [label = "fr1773, fr1782"];
+  v179 -> v180 [label = "fr1766"];
+  v179 -> v181 [label = "fr1773, fr1782"];
+  v180 -> v182 [label = "fr1766"];
+  v181 -> v182 [label = "fr1773, fr1782"];
+  v182 -> v183 [label = "fr1766"];
+  v182 -> v184 [label = "fr1773, fr1782"];
+  v183 -> v185 [label = "fr1766"];
+  v184 -> v185 [label = "fr1773, fr1782"];
+  v185 -> v186 [label = "fr1773, fr1782"];
+  v185 -> v190 [label = "fr1766"];
+  v186 -> v187 [label = "fr1782"];
+  v186 -> v188 [label = "fr1773"];
+  v187 -> v189 [label = "fr1782"];
+  v188 -> v189 [label = "fr1773"];
+  v189 -> v190 [label = "fr1773, fr1782"];
+  v190 -> v191 [label = "fr1782"];
+  v190 -> v192 [label = "fr1766, fr1773"];
+  v191 -> v192 [label = "fr1782"];
+  v192 -> v193 [label = "fr1766"];
+  v192 -> v194 [label = "fr1773, fr1782"];
+  v193 -> v197 [label = "fr1766"];
+  v194 -> v195 [label = "fr1773"];
+  v194 -> v196 [label = "fr1782"];
+  v195 -> v196 [label = "fr1773"];
+  v196 -> v197 [label = "fr1773, fr1782"];
+  v197 -> v198 [label = "fr1773, fr1782"];
+  v197 -> v199 [label = "fr1766"];
+  v198 -> v200 [label = "fr1773, fr1782"];
+  v199 -> v200 [label = "fr1766"];
+  v200 -> v201 [label = "fr1773, fr1782"];
+  v200 -> v202 [label = "fr1766"];
+  v201 -> v203 [label = "fr1773, fr1782"];
+  v202 -> v203 [label = "fr1766"];
+  v203 -> v204 [label = "fr1766"];
+  v203 -> v205 [label = "fr1773, fr1782"];
+  v204 -> v206 [label = "fr1766"];
+  v205 -> v206 [label = "fr1773, fr1782"];
+  v206 -> v211 [label = "fr1766"];
+  v206 -> v207 [label = "fr1773, fr1782"];
+  v207 -> v208 [label = "fr1773"];
+  v207 -> v209 [label = "fr1782"];
+  v208 -> v210 [label = "fr1773"];
+  v209 -> v210 [label = "fr1782"];
+  v210 -> v211 [label = "fr1773, fr1782"];
+  v211 -> v212 [label = "fr1766"];
+  v211 -> v213 [label = "fr1773, fr1782"];
+  v212 -> v217 [label = "fr1766"];
+  v213 -> v214 [label = "fr1782"];
+  v213 -> v215 [label = "fr1773"];
+  v214 -> v216 [label = "fr1782"];
+  v215 -> v216 [label = "fr1773"];
+  v216 -> v217 [label = "fr1773, fr1782"];
+  v217 -> v218 [label = "fr1773, fr1782"];
+  v217 -> v219 [label = "fr1766"];
+  v218 -> v220 [label = "fr1773, fr1782"];
+  v219 -> v220 [label = "fr1766"];
+  v220 -> v221 [label = "fr1766"];
+  v220 -> v222 [label = "fr1773, fr1782"];
+  v221 -> v226 [label = "fr1766"];
+  v222 -> v223 [label = "fr1782"];
+  v222 -> v224 [label = "fr1773"];
+  v223 -> v225 [label = "fr1782"];
+  v224 -> v225 [label = "fr1773"];
+  v225 -> v226 [label = "fr1773, fr1782"];
+  v226 -> v227 [label = "fr1773, fr1782"];
+  v226 -> v228 [label = "fr1766"];
+  v227 -> v228 [label = "fr1773, fr1782"];
+  v228 -> v230 [label = "fr1773, fr1782"];
+  v228 -> v229 [label = "fr1766"];
+  v229 -> v230 [label = "fr1766"];
+  v230 -> v231 [label = "fr1766"];
+  v230 -> v232 [label = "fr1773, fr1782"];
+  v231 -> v233 [label = "fr1766"];
+  v232 -> v233 [label = "fr1773, fr1782"];
+  v233 -> v234 [label = "fr1766"];
+  v233 -> v235 [label = "fr1773, fr1782"];
+  v234 -> v236 [label = "fr1766"];
+  v235 -> v236 [label = "fr1773, fr1782"];
+  v236 -> v237 [label = "fr1766"];
+  v236 -> v238 [label = "fr1773, fr1782"];
+  v237 -> v238 [label = "fr1766"];
+  v238 -> v239 [label = "fr1773, fr1782"];
+  v238 -> v240 [label = "fr1766"];
+  v239 -> v241 [label = "fr1773"];
+  v239 -> v242 [label = "fr1782"];
+  v240 -> v244 [label = "fr1766"];
+  v241 -> v242 [label = "fr1773"];
+  v242 -> v243 [label = "fr1773"];
+  v242 -> v244 [label = "fr1782"];
+  v243 -> v244 [label = "fr1773"];
+  v244 -> v245 [label = "fr1773, fr1782"];
+  v244 -> v246 [label = "fr1766"];
+  v245 -> v247 [label = "fr1773, fr1782"];
+  v246 -> v247 [label = "fr1766"];
+  v247 -> v248 [label = "fr1773, fr1782"];
+  v247 -> v249 [label = "fr1766"];
+  v248 -> v250 [label = "fr1773, fr1782"];
+  v249 -> v250 [label = "fr1766"];
+  v250 -> v251 [label = "fr1766"];
+  v250 -> v252 [label = "fr1773, fr1782"];
+  v251 -> v253 [label = "fr1766"];
+  v252 -> v253 [label = "fr1773, fr1782"];
+  v253 -> v254 [label = "fr1773"];
+  v253 -> v255 [label = "fr1766, fr1782"];
+  v254 -> v255 [label = "fr1773"];
+  v255 -> v256 [label = "fr1766, fr1773"];
+  v255 -> v257 [label = "fr1782"];
+  v256 -> v258 [label = "fr1766"];
+  v256 -> v259 [label = "fr1773"];
+  v257 -> v259 [label = "fr1782"];
+  v258 -> v260 [label = "fr1766"];
+  v259 -> v260 [label = "fr1773, fr1782"];
+  v260 -> v261 [label = "fr1766"];
+  v260 -> v262 [label = "fr1773, fr1782"];
+  v261 -> v263 [label = "fr1766"];
+  v262 -> v264 [label = "fr1773, fr1782"];
+  v263 -> v265 [label = "fr1766"];
+  v264 -> v266 [label = "fr1773, fr1782"];
+  v265 -> v267 [label = "fr1766"];
+  v266 -> v267 [label = "fr1773, fr1782"];
+  v267 -> v268 [label = "fr1766"];
+  v267 -> v269 [label = "fr1773, fr1782"];
+  v268 -> v270 [label = "fr1766"];
+  v269 -> v270 [label = "fr1773, fr1782"];
+  v270 -> v272 [label = "fr1773, fr1782"];
+  v270 -> v271 [label = "fr1766"];
+  v271 -> v272 [label = "fr1766"];
+  v272 -> v273 [label = "fr1766"];
+  v272 -> v274 [label = "fr1773, fr1782"];
+  v273 -> v275 [label = "fr1766"];
+  v274 -> v275 [label = "fr1773, fr1782"];
+  v275 -> v276 [label = "fr1766"];
+  v275 -> v277 [label = "fr1773, fr1782"];
+  v276 -> v278 [label = "fr1766"];
+  v277 -> v278 [label = "fr1773, fr1782"];
+  v278 -> v279 [label = "fr1782"];
+  v278 -> v280 [label = "fr1766, fr1773"];
+  v279 -> v281 [label = "fr1782"];
+  v280 -> v281 [label = "fr1766, fr1773"];
+  v281 -> v282 [label = "fr1773, fr1782"];
+  v281 -> v283 [label = "fr1766"];
+  v282 -> v284 [label = "fr1773, fr1782"];
+  v283 -> v284 [label = "fr1766"];
+  v284 -> v285 [label = "fr1773, fr1782"];
+  v284 -> v286 [label = "fr1766"];
+  v285 -> v287 [label = "fr1773, fr1782"];
+  v286 -> v287 [label = "fr1766"];
+  v287 -> v288 [label = "fr1766"];
+  v287 -> v289 [label = "fr1773, fr1782"];
+  v288 -> v290 [label = "fr1766"];
+  v289 -> v290 [label = "fr1773, fr1782"];
+  v290 -> v291 [label = "fr1773, fr1782"];
+  v290 -> v292 [label = "fr1766"];
+  v291 -> v294 [label = "fr1782"];
+  v291 -> v293 [label = "fr1773"];
+  v292 -> v294 [label = "fr1766"];
+  v293 -> v294 [label = "fr1773"];
+  v294 -> v295 [label = "fr1773, fr1782"];
+  v294 -> v296 [label = "fr1766"];
+  v295 -> v297 [label = "fr1773"];
+  v295 -> v298 [label = "fr1782"];
+  v296 -> v300 [label = "fr1766"];
+  v297 -> v299 [label = "fr1773"];
+  v298 -> v299 [label = "fr1782"];
+  v299 -> v300 [label = "fr1773, fr1782"];
+  v300 -> v301 [label = "fr1773, fr1782"];
+  v300 -> v302 [label = "fr1766"];
+  v301 -> v303 [label = "fr1773"];
+  v301 -> v304 [label = "fr1782"];
+  v302 -> v304 [label = "fr1766"];
+  v303 -> v306 [label = "fr1773"];
+  v304 -> v305 [label = "fr1766"];
+  v304 -> v306 [label = "fr1782"];
+  v305 -> v307 [label = "fr1766"];
+  v306 -> v307 [label = "fr1773, fr1782"];
+  v307 -> v308 [label = "fr1766, fr1782"];
+  v307 -> v309 [label = "fr1773"];
+  v308 -> v310 [label = "fr1766, fr1782"];
+  v309 -> v310 [label = "fr1773"];
+  v310 -> v312 [label = "fr1773, fr1782"];
+  v310 -> v311 [label = "fr1766"];
+  v311 -> v312 [label = "fr1766"];
+  v312 -> v313 [label = "fr1766"];
+  v312 -> v314 [label = "fr1773, fr1782"];
+  v313 -> v315 [label = "fr1766"];
+  v314 -> v315 [label = "fr1773, fr1782"];
+  v315 -> v316 [label = "fr1773, fr1782"];
+  v315 -> v317 [label = "fr1766"];
+  v316 -> v318 [label = "fr1773, fr1782"];
+  v317 -> v319 [label = "fr1766"];
+  v318 -> v320 [label = "fr1773, fr1782"];
+  v319 -> v321 [label = "fr1766"];
+  v320 -> v322 [label = "fr1773, fr1782"];
+  v321 -> v322 [label = "fr1766"];
+  v322 -> v323 [label = "fr1773, fr1782"];
+  v322 -> v324 [label = "fr1766"];
+  v323 -> v325 [label = "fr1773, fr1782"];
+  v324 -> v325 [label = "fr1766"];
+  v325 -> v326 [label = "fr1773, fr1782"];
+  v325 -> v327 [label = "fr1766"];
+  v326 -> v327 [label = "fr1773, fr1782"];
+  v327 -> v333 [label = "fr1773"];
+  v327 -> v328 [label = "fr1782"];
+  v327 -> v329 [label = "fr1766"];
+  v328 -> v330 [label = "fr1782"];
+  v329 -> v330 [label = "fr1766"];
+  v330 -> v331 [label = "fr1766"];
+  v330 -> v332 [label = "fr1782"];
+  v331 -> v336 [label = "fr1766"];
+  v332 -> v333 [label = "fr1782"];
+  v333 -> v335 [label = "fr1773"];
+  v333 -> v334 [label = "fr1782"];
+  v334 -> v335 [label = "fr1782"];
+  v335 -> v336 [label = "fr1773, fr1782"];
+  v336 -> v338 [label = "fr1766"];
+  v336 -> v337 [label = "fr1773, fr1782"];
+  v337 -> v338 [label = "fr1773, fr1782"];
+  v338 -> v340 [label = "fr1766"];
+  v338 -> v339 [label = "fr1773, fr1782"];
+  v339 -> v340 [label = "fr1773, fr1782"];
+  v340 -> v341 [label = "fr1766"];
+  v340 -> v342 [label = "fr1773, fr1782"];
+  v341 -> v346 [label = "fr1766"];
+  v342 -> v343 [label = "fr1782"];
+  v342 -> v344 [label = "fr1773"];
+  v343 -> v345 [label = "fr1782"];
+  v344 -> v345 [label = "fr1773"];
+  v345 -> v346 [label = "fr1773, fr1782"];
+  v346 -> v347 [label = "fr1773, fr1782"];
+  v346 -> v348 [label = "fr1766"];
+  v347 -> v348 [label = "fr1773, fr1782"];
+  v348 -> v349 [label = "fr1766"];
+  v348 -> v350 [label = "fr1773, fr1782"];
+  v349 -> v351 [label = "fr1766"];
+  v350 -> v352 [label = "fr1782"];
+  v350 -> v353 [label = "fr1773"];
+  v351 -> v354 [label = "fr1766"];
+  v352 -> v355 [label = "fr1782"];
+  v353 -> v355 [label = "fr1773"];
+  v354 -> v356 [label = "fr1766"];
+  v355 -> v357 [label = "fr1773, fr1782"];
+  v356 -> v358 [label = "fr1766"];
+  v357 -> v359 [label = "fr1773, fr1782"];
+  v358 -> v360 [label = "fr1766"];
+  v359 -> v361 [label = "fr1773, fr1782"];
+  v360 -> v361 [label = "fr1766"];
+  v361 -> v362 [label = "fr1773, fr1782"];
+  v361 -> v363 [label = "fr1766"];
+  v362 -> v364 [label = "fr1782"];
+  v362 -> v365 [label = "fr1773"];
+  v363 -> v364 [label = "fr1766"];
+  v364 -> v365 [label = "fr1766, fr1782"];
+  v365 -> v366 [label = "fr1766"];
+  v365 -> v367 [label = "fr1773, fr1782"];
+  v366 -> v368 [label = "fr1766"];
+  v367 -> v368 [label = "fr1773, fr1782"];
+  v368 -> v370 [label = "fr1766, fr1773"];
+  v368 -> v369 [label = "fr1782"];
+  v369 -> v370 [label = "fr1782"];
+  v370 -> v371 [label = "fr1766, fr1773"];
+  v370 -> v372 [label = "fr1782"];
+  v371 -> v374 [label = "fr1773"];
+  v371 -> v373 [label = "fr1766"];
+  v372 -> v374 [label = "fr1782"];
+  v373 -> v380 [label = "fr1766"];
+  v374 -> v375 [label = "fr1782"];
+  v374 -> v376 [label = "fr1773"];
+  v375 -> v377 [label = "fr1782"];
+  v376 -> v377 [label = "fr1773"];
+  v377 -> v378 [label = "fr1782"];
+  v377 -> v379 [label = "fr1773"];
+  v378 -> v380 [label = "fr1782"];
+  v379 -> v380 [label = "fr1773"];
+  v380 -> v382 [label = "fr1773, fr1782"];
+  v380 -> v381 [label = "fr1766"];
+  v381 -> v382 [label = "fr1766"];
+  v382 -> v383 [label = "fr1773, fr1782"];
+  v382 -> v384 [label = "fr1766"];
+  v383 -> v384 [label = "fr1773, fr1782"];
+  v384 -> v385 [label = "fr1773, fr1782"];
+  v384 -> v386 [label = "fr1766"];
+  v385 -> v387 [label = "fr1773, fr1782"];
+  v386 -> v389 [label = "fr1766"];
+  v387 -> v389 [label = "fr1782"];
+  v387 -> v388 [label = "fr1773"];
+  v388 -> v389 [label = "fr1773"];
+  v389 -> v390 [label = "fr1773, fr1782"];
+  v389 -> v391 [label = "fr1766"];
+  v390 -> v392 [label = "fr1773, fr1782"];
+  v391 -> v393 [label = "fr1766"];
+  v392 -> v394 [label = "fr1773, fr1782"];
+  v393 -> v395 [label = "fr1766"];
+  v394 -> v398 [label = "fr1773, fr1782"];
+  v395 -> v396 [label = "fr1766"];
+  v396 -> v397 [label = "fr1766"];
+  v397 -> v398 [label = "fr1766"];
+  v398 -> v399 [label = "fr1773, fr1782"];
+  v398 -> v400 [label = "fr1766"];
+  v399 -> v401 [label = "fr1773"];
+  v399 -> v402 [label = "fr1782"];
+  v400 -> v402 [label = "fr1766"];
+  v401 -> v405 [label = "fr1773"];
+  v402 -> v403 [label = "fr1782"];
+  v402 -> v404 [label = "fr1766"];
+  v403 -> v405 [label = "fr1782"];
+  v404 -> v406 [label = "fr1766"];
+  v405 -> v406 [label = "fr1773, fr1782"];
+  v406 -> v408 [label = "fr1773, fr1782"];
+  v406 -> v407 [label = "fr1766"];
+  v407 -> v408 [label = "fr1766"];
+  v408 -> v409 [label = "fr1766"];
+  v408 -> v410 [label = "fr1773, fr1782"];
+  v409 -> v411 [label = "fr1766"];
+  v410 -> v411 [label = "fr1773, fr1782"];
+  v411 -> v412 [label = "fr1766"];
+  v411 -> v413 [label = "fr1773, fr1782"];
+  v412 -> v420 [label = "fr1766"];
+  v413 -> v414 [label = "fr1782"];
+  v413 -> v415 [label = "fr1773"];
+  v414 -> v416 [label = "fr1782"];
+  v415 -> v416 [label = "fr1773"];
+  v416 -> v417 [label = "fr1782"];
+  v416 -> v418 [label = "fr1773"];
+  v417 -> v419 [label = "fr1782"];
+  v418 -> v419 [label = "fr1773"];
+  v419 -> v420 [label = "fr1773, fr1782"];
+  v420 -> v421 [label = "fr1766"];
+  v420 -> v422 [label = "fr1773, fr1782"];
+  v421 -> v423 [label = "fr1766"];
+  v422 -> v423 [label = "fr1773, fr1782"];
+  v423 -> v424 [label = "fr1766"];
+  v423 -> v425 [label = "fr1773, fr1782"];
+  v424 -> v432 [label = "fr1766"];
+  v425 -> v426 [label = "fr1782"];
+  v425 -> v427 [label = "fr1773"];
+  v426 -> v428 [label = "fr1782"];
+  v427 -> v428 [label = "fr1773"];
+  v428 -> v429 [label = "fr1782"];
+  v428 -> v430 [label = "fr1773"];
+  v429 -> v431 [label = "fr1782"];
+  v430 -> v431 [label = "fr1773"];
+  v431 -> v432 [label = "fr1773, fr1782"];
+  v432 -> v433 [label = "fr1766"];
+  v432 -> v434 [label = "fr1773, fr1782"];
+  v433 -> v435 [label = "fr1766"];
+  v434 -> v435 [label = "fr1773, fr1782"];
+  v435 -> v436 [label = "fr1766"];
+  v435 -> v437 [label = "fr1773, fr1782"];
+  v436 -> v444 [label = "fr1766"];
+  v437 -> v438 [label = "fr1773"];
+  v437 -> v439 [label = "fr1782"];
+  v438 -> v440 [label = "fr1773"];
+  v439 -> v440 [label = "fr1782"];
+  v440 -> v441 [label = "fr1773"];
+  v440 -> v442 [label = "fr1782"];
+  v441 -> v443 [label = "fr1773"];
+  v442 -> v443 [label = "fr1782"];
+  v443 -> v444 [label = "fr1773, fr1782"];
+  v444 -> v445 [label = "fr1773, fr1782"];
+  v444 -> v446 [label = "fr1766"];
+  v445 -> v447 [label = "fr1773, fr1782"];
+  v446 -> v447 [label = "fr1766"];
+  v447 -> v448 [label = "fr1773, fr1782"];
+  v447 -> v449 [label = "fr1766"];
+  v448 -> v450 [label = "fr1773, fr1782"];
+  v449 -> v450 [label = "fr1766"];
+  v450 -> v452 [label = "fr1766"];
+  v450 -> v451 [label = "fr1773, fr1782"];
+  v451 -> v452 [label = "fr1773, fr1782"];
+  v452 -> v453 [label = "fr1766"];
+  v452 -> v454 [label = "fr1773, fr1782"];
+  v453 -> v455 [label = "fr1766"];
+  v454 -> v455 [label = "fr1773, fr1782"];
+  v455 -> v456 [label = "fr1766"];
+  v455 -> v457 [label = "fr1773, fr1782"];
+  v456 -> v458 [label = "fr1766"];
+  v457 -> v459 [label = "fr1773"];
+  v457 -> v461 [label = "fr1782"];
+  v458 -> v460 [label = "fr1766"];
+  v459 -> v461 [label = "fr1773"];
+  v460 -> v467 [label = "fr1766"];
+  v461 -> v462 [label = "fr1773, fr1782"];
+  v462 -> v463 [label = "fr1773, fr1782"];
+  v463 -> v464 [label = "fr1782"];
+  v463 -> v465 [label = "fr1773"];
+  v464 -> v466 [label = "fr1782"];
+  v465 -> v466 [label = "fr1773"];
+  v466 -> v467 [label = "fr1773, fr1782"];
+  v467 -> v468 [label = "fr1773"];
+  v467 -> v469 [label = "fr1766, fr1782"];
+  v468 -> v469 [label = "fr1773"];
+  v469 -> v470 [label = "fr1766"];
+  v469 -> v471 [label = "fr1773, fr1782"];
+  v470 -> v472 [label = "fr1766"];
+  v471 -> v472 [label = "fr1773, fr1782"];
+  v472 -> v473 [label = "fr1766"];
+  v472 -> v474 [label = "fr1773, fr1782"];
+  v473 -> v477 [label = "fr1766"];
+  v474 -> v476 [label = "fr1773"];
+  v474 -> v475 [label = "fr1782"];
+  v475 -> v476 [label = "fr1782"];
+  v476 -> v477 [label = "fr1773, fr1782"];
+  v477 -> v478 [label = "fr1766"];
+  v477 -> v479 [label = "fr1773, fr1782"];
+  v478 -> v480 [label = "fr1766"];
+  v479 -> v480 [label = "fr1773, fr1782"];
+  v480 -> v481 [label = "fr1766"];
+  v480 -> v482 [label = "fr1773, fr1782"];
+  v481 -> v483 [label = "fr1766"];
+  v482 -> v483 [label = "fr1773, fr1782"];
+  v483 -> v484 [label = "fr1773, fr1782"];
+  v483 -> v485 [label = "fr1766"];
+  v484 -> v486 [label = "fr1782"];
+  v484 -> v487 [label = "fr1773"];
+  v485 -> v489 [label = "fr1766"];
+  v486 -> v488 [label = "fr1782"];
+  v487 -> v488 [label = "fr1773"];
+  v488 -> v489 [label = "fr1773, fr1782"];
+  v489 -> v491 [label = "fr1773, fr1782"];
+  v489 -> v490 [label = "fr1766"];
+  v490 -> v491 [label = "fr1766"];
+  v491 -> v492 [label = "fr1766"];
+  v491 -> v493 [label = "fr1773"];
+  v491 -> v494 [label = "fr1782"];
+  v492 -> v495 [label = "fr1766"];
+  v493 -> v495 [label = "fr1773"];
+  v494 -> v495 [label = "fr1782"];
+  v495 -> v497 [label = "fr1773, fr1782"];
+  v495 -> v496 [label = "fr1766"];
+  v496 -> v497 [label = "fr1766"];
+  v497 -> v498 [label = "fr1766"];
+  v497 -> v499 [label = "fr1773, fr1782"];
+  v498 -> v500 [label = "fr1766"];
+  v499 -> v500 [label = "fr1773, fr1782"];
+  v500 -> v501 [label = "fr1773, fr1782"];
+  v500 -> v502 [label = "fr1766"];
+  v501 -> v503 [label = "fr1773, fr1782"];
+  v502 -> v503 [label = "fr1766"];
+  v503 -> v504 [label = "fr1773, fr1782"];
+  v503 -> v505 [label = "fr1766"];
+  v504 -> v506 [label = "fr1773, fr1782"];
+  v505 -> v506 [label = "fr1766"];
+  v506 -> v507 [label = "fr1773, fr1782"];
+  v506 -> v508 [label = "fr1766"];
+  v507 -> v509 [label = "fr1773, fr1782"];
+  v508 -> v509 [label = "fr1766"];
+  v509 -> v510 [label = "fr1766, fr1773, fr1782"];
+  v356 -> v352 [ color = "lightgray", style = "dashed" arrowhead = "none", arrowtail = "none" ];
+  v263 -> v264 [ color = "lightgray", style = "dashed" arrowhead = "none", arrowtail = "none" ];
+  v63 -> v71 [ color = "lightgray", style = "dashed" arrowhead = "none", arrowtail = "none" ];
+  v165 -> v164 [ color = "lightgray", style = "dashed" arrowhead = "none", arrowtail = "none" ];
+  v351 -> v357 [ color = "lightgray", style = "dashed" arrowhead = "none", arrowtail = "none" ];
+  v393 -> v392 [ color = "lightgray", style = "dashed" arrowhead = "none", arrowtail = "none" ];
+  v147 -> v151 [ color = "lightgray", style = "dashed" arrowhead = "none", arrowtail = "none" ];
+  v458 -> v462 [ color = "lightgray", style = "dashed" arrowhead = "none", arrowtail = "none" ];
+  v128 -> v129 [ color = "lightgray", style = "dashed" arrowhead = "none", arrowtail = "none" ];
+  v358 -> v355 [ color = "lightgray", style = "dashed" arrowhead = "none", arrowtail = "none" ];
+  v319 -> v318 [ color = "lightgray", style = "dashed" arrowhead = "none", arrowtail = "none" ];
+  v396 -> v387 [ color = "lightgray", style = "dashed" arrowhead = "none", arrowtail = "none" ];
+  v0 -> v510 [color =  "white"];
+}
